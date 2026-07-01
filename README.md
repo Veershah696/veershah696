@@ -7,4 +7,9 @@
 
 ### 🌐 Connect with me
 
-
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="linkedin" /></a>
+<a href="https://instagram.com" target="blank"><img src="https://shields.io" alt="instagram" /></a>
+<a href="https://codepen.io" target="blank"><img src="https://shields.io" alt="codepen" /></a>
+<a href="mailto:veershah6961@gmail.com"><img src="https://shields.io" alt="gmail" /></a>
+</p>
