@@ -8,7 +8,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="linkedin" /></a>
+<a href="https://linkedin.com" target="blank"><img src="https://shields.io"alt="linkedin"https://www.linkedin.com/in/veershah696   /></a>
   
 <a href="https://instagram.com" target="blank"><img src="https://shields.io" alt="instagram" /></a>
 
