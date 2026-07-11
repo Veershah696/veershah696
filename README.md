@@ -1,4 +1,12 @@
-###    ![Uploading image.png…]()
+###    <img width="1019" height="397" alt="image" src="https://github.com/user-attachments/assets/6868215b-dd40-47c0-b36f-1c3988c2f566" />
+
+
+
+
+
+
+
+
 
 
 ### 🙇 About Me
