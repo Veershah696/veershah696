@@ -1,4 +1,16 @@
+<div align="center">
 
+<img src="https://github-widgetbox.vercel.app/api/profile?username=veershah696&data=followers,repositories,stars,commits&theme=dark" />
+
+# Veer Shah
+
+💻 Computer Engineering Student | Android Developer | AI Enthusiast
+
+<a href="https://github.com/veershah696">
+  <img src="https://img.shields.io/badge/GitHub-veershah696-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ### 🙇 About Me
 
