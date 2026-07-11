@@ -6,5 +6,6 @@
 * 🧠 Deeply interested in optimizing Machine Learning workflows and Data Pipelines.
 * 📈 Constantly experimenting with emerging technologies and modern frameworks.
 
-
+🌐 Connect With Me
+LinkedIn LeetCode X Instagram Email
 
