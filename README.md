@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="2168" height="725" alt="image" src="https://github.com/user-attachments/assets/abd6111f-af13-4482-97ac-2e02bb92a802" />
+
 
 ### 🙇 About Me
 * 💻 Computer Engineering Student passionate about software craftsmanship.
