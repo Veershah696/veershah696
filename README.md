@@ -1,6 +1,9 @@
 <img width="2168" height="725" alt="image" src="https://github.com/user-attachments/assets/abd6111f-af13-4482-97ac-2e02bb92a802" />
-
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=veershah696&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=veershah696&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veershah696&theme=tokyonight" />
+</div>
 ### 🙇 About Me
 * 💻 Computer Engineering Student passionate about software craftsmanship.
 * 🛠️ Full-Stack & Mobile Developer building scalable, real-world solutions.
