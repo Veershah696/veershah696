@@ -1,5 +1,8 @@
 <img width="2168" height="725" alt="image" src="https://github.com/user-attachments/assets/abd6111f-af13-4482-97ac-2e02bb92a802" />
 
+
+<img src="https://komarev.com/ghpvc/?username=veershah696" width="300" alt="Profile views">
+
 ### 🙇 About Me
 * 💻 Computer Engineering Student passionate about software craftsmanship.
 * 🛠️ Full-Stack & Mobile Developer building scalable, real-world solutions.
@@ -20,4 +23,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=veershah696&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=veershah696)
+
