@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/veershah696/veershah696/main/assets/profile-banner.png
+![Uploading image.png…]()
+
 
 ### 🙇 About Me
 * 💻 Computer Engineering Student passionate about software craftsmanship.
