@@ -1,7 +1,5 @@
 <img width="2174" height="723" alt="image" src="https://github.com/user-attachments/assets/af1ce29b-ad2a-4cfe-9d65-2753a6f1e64d" />
 
-
-
 ### 🙇 About Me
 * 💻 Computer Engineering Student passionate about software craftsmanship.
 * 🛠️ Full-Stack & Mobile Developer building scalable, real-world solutions.
