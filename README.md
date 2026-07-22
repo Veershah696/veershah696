@@ -1,4 +1,4 @@
-<img width="1476" height="1566" alt="image" src="https://github.com/user-attachments/assets/c0bf2db8-9249-4044-a77c-d6566fffcef0" />
+<img width="1476" height="1066" alt="image" src="https://github.com/user-attachments/assets/c0bf2db8-9249-4044-a77c-d6566fffcef0" />
 
 ### 🙇 About Me
 * 💻 Computer Engineering Student passionate about software craftsmanship.
